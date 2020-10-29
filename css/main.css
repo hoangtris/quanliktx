@@ -1,0 +1,22 @@
+.gioithieu {
+    text-align: center;
+    color: rgb(97, 97, 97);
+	margin: 50px 0px;
+}
+
+.gioithieu h1{
+	text-transform: uppercase;
+	margin: 30px 0px 15px;
+}
+
+.gioithieu p{
+	font-style: italic;	
+}
+
+hr{
+	border-top: solid 1px rgb(97, 97, 97)
+}
+
+.gioithieu-nenxam{
+	background-color: rgb(224, 224, 224);
+}
